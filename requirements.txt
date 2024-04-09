@@ -1,0 +1,6 @@
+///////////////////////////////////////////////////////////////
+Python 3.7 equivalent or greater
+ libraries required
+1.Pyautogui
+2.keyboard
+3.win32api
